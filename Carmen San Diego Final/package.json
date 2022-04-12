@@ -1,0 +1,17 @@
+{
+  "name": "uca-poo2-template",
+  "version": "1.1.0",
+  "description": "template de ejercicio en Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx testy"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@pmoo/testy": "^5.0.2"
+  },
+  "dependencies": {
+    "@pmoo/oow": "^1.11.0"
+  }
+}
